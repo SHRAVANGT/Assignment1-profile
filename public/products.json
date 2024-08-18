@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Sunbeam Tote",
+    "image": "/images/p1.avif",
+    "price": "$29.99",
+    "description": "Brighten your day with this cheerful yellow bag. Its vibrant color and ample storage space make it an excellent choice for shopping or day trips. Lightweight and durable, it's designed for comfort and convenience."
+  },
+  {
+    "id": 2,
+    "name": "ZebraBlend T-Shirt",
+    "image": "/images/p2.avif",
+    "price": "$49.99",
+    "description": "Show off your wild side with this unique white and brown striped t-shirt. Made from 100% organic cotton, it offers both comfort and durability. Its eye-catching design makes it perfect for any casual occasion."
+  },
+  {
+    "id": 3,
+    "name": "Brewster Mug",
+    "image": "/images/p3.avif",
+    "price": "$19.99",
+    "description": "Enjoy your favorite drinks in our vintage-style hipster mug. Its unique design and sturdy construction make it a favorite. Perfect for sipping coffee or tea while lounging or working."
+  },
+  {
+    "id": 4,
+    "name": "Watch",
+    "image": "/images/p4.avif",
+    "price": "$499.99",
+    "description": "It is an amazing watch; it even shows time!"
+  },
+  {
+    "id": 5,
+    "name": "EchoBass Headphones",
+    "image": "/images/p5.avif",
+    "price": "$149.99",
+    "description": "Experience deep, rich sound with these state-of-the-art headphones. Featuring noise-canceling technology, they immerse you in music. Comfortable and adjustable, they are perfect for long listening sessions."
+  },
+  {
+    "id": 6,
+    "name": "AquaStride Bottle",
+    "image": "/images/p6.avif",
+    "price": "$19.99",
+    "description": "Stay hydrated on the go with our leak-proof, stainless steel water bottle. Its double-wall insulation keeps beverages cold for up to 24 hours. The ergonomic design fits comfortably in your hand."
+  },
+  {
+    "id": 7,
+    "name": "ShadowStride Shoes",
+    "image": "/images/p7.avif",
+    "price": "$99.99",
+    "description": "These classic black shoes are a wardrobe essential. Designed for both comfort and versatility, they pair well with any attire. The cushioned sole ensures all-day comfort."
+  }
+]
